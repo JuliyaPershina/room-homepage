@@ -215,6 +215,7 @@ footer {
   background-image: url(./images/icon-angle-left.svg);
   background-repeat: no-repeat;
   background-position: center center;
+  z-index: 2;
 }
 .slick-next {
   position: absolute;
@@ -228,4 +229,5 @@ footer {
   background-image: url(./images/icon-angle-right.svg);
   background-repeat: no-repeat;
   background-position: center center;
+  z-index: 3;
 }
